@@ -4,6 +4,10 @@ img {
     object-fit: cover;
 }
 
-h1 {
+body {
     background-color: blue;
+}
+
+h1{
+    background-color: aqua;
 }
